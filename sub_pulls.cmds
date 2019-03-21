@@ -1,3 +1,6 @@
 git subtree add -P "text-classification-cnn-rnn" https://github.com/gaussic/text-classification-cnn-rnn.git master
+git subtree add -P "CharCnn_Keras" git@github.com:mhjabreel/CharCnn_Keras.git master
+
+
 git add --all;git commit -m "updated";git push
 
